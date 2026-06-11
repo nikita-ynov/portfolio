@@ -1,0 +1,28 @@
+/* css/variables.css */
+:root {
+    /* Color Palette */
+    --surface-container-lowest: #0e0e0e;
+    --primary-fixed: #d8e2ff;
+    --surface-tint: #adc6ff;
+    --secondary-container: #7000ff;
+    --surface-container-high: #2a2a2a;
+    --on-surface-variant: #c1c6d7;
+    --on-primary-fixed: #001a41;
+    --surface: #131313;
+    --surface-variant: #353535;
+    --inverse-primary: #005bc1;
+    --background: #131313;
+    --on-surface: #e2e2e2;
+    --on-background: #e2e2e2;
+
+    /* Spacing */
+    --margin-desktop: 80px;
+    --margin-mobile: 20px;
+    --container-max: 1440px;
+    --gutter: 24px;
+
+    /* Glassmorphism Specs */
+    --glass-bg-panel: rgba(17, 17, 17, 0.3);
+    --glass-bg-card: rgba(20, 20, 20, 0.4);
+    --glass-border: rgba(255, 255, 255, 0.05);
+}
